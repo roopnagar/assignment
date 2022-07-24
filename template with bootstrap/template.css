@@ -1,0 +1,109 @@
+
+*{
+    margin: 0px 0px;
+}
+header{
+    background-color: black;
+    height: 70px;
+    
+}
+.container{
+    
+    display: flex;
+    width: 1700px;
+    justify-content: space-between;
+    margin: 0px auto;
+    
+    
+}
+#headernav{
+    display: inline-flex;
+}
+#menu{
+    padding: 15px 120px;}
+#menu ul li{
+    display: inline-block;
+    padding: 10px 5px;
+}
+    
+
+.form{
+    padding: 23px 0px;
+}
+#main{
+    background-color: rgb(26, 177, 26);
+    top: 60px;
+    height: 150px;
+}
+#main .rn1{
+    padding: 0px 150px;
+    font-size: 3vmax;
+    color: white;
+    
+}
+#main .rn2{
+    padding: 0px 150px;
+    color: white;
+}
+#main .rn3{
+    padding: 0px 150px;
+}
+#middle{
+    border-bottom: 1px;
+    border-bottom: type;
+}
+.middle1{
+    padding: 0px 150px;
+    
+}
+.middle2{
+    padding: 0px 150px;
+}
+.images{
+    padding: 10px 150px 10px;
+    display: inline;
+    display: flex;
+}
+.tn{
+    background-color: orange;
+    height: 190px;
+    padding: 18px 150px;
+    display: inline;
+    display: flex;
+    
+}
+#last{
+    padding: 0px 150px;
+    color: rgb(64, 64, 240);
+}
+#menu ul li a:link{
+    color: aliceblue;
+
+}
+#rs{
+    color: rgb(86, 86, 182);
+}
+#rs1{
+    color: rgb(86, 86, 182);
+}#rs2{
+    color: rgb(86, 86, 182);
+}
+#rrr{
+    padding: 0px 150px
+    ;
+}
+#rs4{
+    color: rgb(113, 108, 108);
+}
+.button1{
+    border-radius: 7px;
+}
+.button2{
+    border-radius: 7px;
+}
+.button3{
+    border-radius: 7px;
+}
+.button4{
+    border-radius: 7px;
+}
